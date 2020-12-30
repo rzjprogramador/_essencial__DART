@@ -1,4 +1,9 @@
 /*
+VARIAVEIS -- Declaracoes :::
+- Mutavel Tipo - Podem mudar tipo e valor == dynamic 
+- Mutavel Valor === sem declaracao
+- Constante - Nao podem mudar valor == var - 
+- Declarativa -- Se atribuida primeiro valor sera o tipo.
 
 */
 void main() {
